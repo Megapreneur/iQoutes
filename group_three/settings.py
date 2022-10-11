@@ -79,8 +79,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'iqoutes',
         'Host':'localhost',
-        'USER':'root',
-        'PASSWORD' : 'eniolaola'
+        'USER':'admin',
+        'PASSWORD' : 'admin'
     }
 }
 
